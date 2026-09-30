@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "premiere-api-rest",
+  "version": "0.0.0",
+  "description": "Première API Rest",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadrienM59/premiere-api-rest.git"
+  },
+  "author": "Hadrien M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HadrienM59/premiere-api-rest/issues"
+  },
+  "homepage": "https://github.com/HadrienM59/premiere-api-rest#readme"
+}
