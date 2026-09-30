@@ -1,14 +1,15 @@
 {
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
   },
   "name": "premiere-api-rest",
   "version": "0.0.0",
   "description": "Première API Rest",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.js"
   },
   "repository": {
     "type": "git",
